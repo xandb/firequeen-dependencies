@@ -1,0 +1,2 @@
+# firequeen-dependencies
+Firequeen Dependencies
